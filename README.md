@@ -1,8 +1,9 @@
-## Денис Кузьменок — ML Engineer
+## Приветствую всех, меня зовут Денис  
+## ML Engineer
 
-Специалитет по ракетно-космической технике в МГТУ им. Баумана + Data Science 
+Учусь на специалитете на инженера в Бауманке + Data Science 
 в Школе 21. В ML пришёл из инженерной задачи: прогнозировал остаточный ресурс 
-подшипниковых узлов по вибродиагностике — и остался. Сейчас развиваюсь 
+подшипниковых узлов по сигналам, снятых с акселерометров и остался. Сейчас развиваюсь 
 в сторону LLM-агентов и прикладных ML-систем.
 
 ### Проекты
@@ -11,7 +12,10 @@
 Сквозная система от сырых сигналов вибродатчиков до заявки на закупку в 1С.
 ML-пайплайн (очистка → признаки здоровья → мультитаргетная регрессия) + агент 
 на LangGraph с тремя инструментами, который интерпретирует прогноз и формирует 
-документ.  
+документ. 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 `Python` `LangGraph` `Groq` `TimescaleDB` `Redis` `MLflow` `Docker`
 
 **[Название второго проекта](ссылка)**  
