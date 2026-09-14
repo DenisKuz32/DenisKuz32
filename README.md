@@ -1,4 +1,4 @@
-## Приветствую всех, меня зовут Денис  
+## Привет всем, меня зовут Денис  
 ## ML Engineer
 
 Учусь на специалитете на инженера в Бауманке + Data Science 
@@ -13,9 +13,7 @@
 ML-пайплайн (очистка → признаки здоровья → мультитаргетная регрессия) + агент 
 на LangGraph с тремя инструментами, который интерпретирует прогноз и формирует 
 документ. 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
 `Python` `LangGraph` `Groq` `TimescaleDB` `Redis` `MLflow` `Docker`
 
 **[Название второго проекта](ссылка)**  
@@ -23,14 +21,14 @@ ML-пайплайн (очистка → признаки здоровья → м
 `стек`
 
 ### Стек
+![Python](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,redis,docker,linux,git)
 
-**LLM и агенты:** LangChain, LangGraph, tool calling, MCP  
-**ML:** scikit-learn, CatBoost, feature engineering по временным рядам  
-**CV:** YOLO / Ultralytics, OCR-пайплайны  
-**Данные и инфраструктура:** SQL, TimescaleDB, Redis, Docker, MLflow, Linux, Git
+**LLM и агенты:** LangChain · LangGraph · tool calling · MCP · Groq API  
+**ML:** мультитаргетная регрессия · feature engineering по временным рядам  
+**CV:** YOLO / Ultralytics · OCR-пайплайны · калибровка порогов уверенности  
+**Инфраструктура:** TimescaleDB · MLflow · REST API
 
-### Контакты
-
+### Как вы можете связаться со мной
 kuzmenokjob@gmail.com · [Telegram](https://t.me/k_y_3_m_u_n)
 <!--
 **DenisKuz32/DenisKuz32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
