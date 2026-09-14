@@ -16,17 +16,17 @@ ML-пайплайн (очистка → признаки здоровья → м
 
 `Python` `LangGraph` `Groq` `TimescaleDB` `Redis` `MLflow` `Docker`
 
-**[Название второго проекта](ссылка)**  
-Одно-два предложения: задача, что построено, какой результат.  
-`стек`
+#### 📐 [MCP-сервер для SolidWorks](ссылка)
+Даёт LLM возможность управлять CAD-системой: MCP-сервер на Python, связывающий  
+Claude Desktop с SolidWorks через COM-интерфейс (pywin32). Инструменты параметрического  
+построения — цилиндрические обечайки и эллиптические днища по ГОСТ 6533, — за счёт чего  
+модель строит корректную геометрию по текстовому описанию, а не по координатам.
+
+`Python` `MCP` `pywin32 / COM` `SolidWorks API`
 
 ### Стек
 ![Python](https://skillicons.dev/icons?i=py,pytorch,sklearn,postgres,redis,docker,linux,git)
 
-**LLM и агенты:** LangChain · LangGraph · tool calling · MCP · Groq API  
-**ML:** мультитаргетная регрессия · feature engineering по временным рядам  
-**CV:** YOLO / Ultralytics · OCR-пайплайны · калибровка порогов уверенности  
-**Инфраструктура:** TimescaleDB · MLflow · REST API
 
 ### Как вы можете связаться со мной
 kuzmenokjob@gmail.com · [Telegram](https://t.me/k_y_3_m_u_n)
