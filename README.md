@@ -16,7 +16,7 @@ ML-пайплайн (1)очистка  данных 2)feature engineering 3)му
 
 `Python` `LangGraph` `Groq` `TimescaleDB` `Redis` `MLflow` `Docker`
 
-#### 📐 [MCP-сервер для SolidWorks]([ссылка](https://github.com/DenisKuz32/rul-predictive-maintenance))
+#### 📐 [MCP-сервер для SolidWorks](https://github.com/DenisKuz32/MCP-connector-SolidWorks-for-Claude-Desktop)
 Даёт LLM возможность управлять CAD-системой: MCP-сервер на Python, связывающий  
 Claude с SolidWorks через COM-интерфейс (pywin32). Инструменты параметрического  
 построения являются цилиндрические обечайки и эллиптические днища по ГОСТ 6533, за счёт чего  
